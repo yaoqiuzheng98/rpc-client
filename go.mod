@@ -1,4 +1,4 @@
-module rpc-client
+module github.com/yaoqiuzheng98/rpc-client
 
 go 1.25.7
 
