@@ -30,3 +30,8 @@ go.work.sum
 # Editor/IDE
 .idea/
 # .vscode/
+
+# 忽略所有生成的服务端代码
+client/*/etc/
+client/*/internal/
+client/*/*.go
